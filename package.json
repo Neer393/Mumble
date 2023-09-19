@@ -1,7 +1,6 @@
 {
   "name": "videocalling-app",
   "version": "0.1.0",
-  "proxy": "https://mumble-backend-8c5dtuz07-neer393.vercel.app/",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.3.0",
